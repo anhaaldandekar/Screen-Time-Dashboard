@@ -89,27 +89,7 @@ The project supports exploration of the following questions:
 
 *Note: Specific findings should be added after checking the actual dashboard results.*
 
-## 🚀 How to Run
 
-### 1. Download the Repository
-
-Download or clone this GitHub repository to your computer.
-
-### 2. Open the Power BI File
-
-Open `Screen Time Dashboard.pbix` using Microsoft Power BI Desktop.
-
-### 3. Connect the Dataset
-
-If Power BI requests the data source, select `screentime data.xlsx` from the project folder.
-
-### 4. Refresh the Data
-
-Refresh the dataset if required and resolve any data source prompts.
-
-### 5. Explore the Dashboard
-
-View the charts, summary metrics, and available interactive filters to explore screen time patterns.
 
 ## 🎓 Skills Demonstrated
 
@@ -121,6 +101,3 @@ The Screen Time Analytics Dashboard demonstrates how Microsoft Power BI can be u
 
 ---
 
-**Author:** Aswathib18
-
-**GitHub Profile:** [Aswathib18](https://github.com/Aswathib18)
