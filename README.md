@@ -87,7 +87,7 @@ The project supports exploration of the following questions:
 - Which usage patterns stand out in the visualizations?
 - What can the data reveal about digital activity?
 
-*Note: Specific findings should be added after checking the actual dashboard results.*
+
 
 
 
