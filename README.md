@@ -45,3 +45,8 @@ The dashboard can help investigate:
 
 ## 📝 Conclusion
 This project demonstrates the use of Power BI to present screen time data visually and support data-driven analysis.
+
+## 📸 Dashboard Preview
+
+![Screen Time Dashboard](dashboard.png)
+
