@@ -1,4 +1,17 @@
-# Screen Time Analytics Dashboard | Power BI
+#  Screen Time Analytics Dashboard
+
+An interactive data analysis project built using Microsoft Power BI.
+
+## Table of Contents
+- [Project Overview](#-project-overview)
+- [Objectives](#-objectives)
+- [Tools Used](#-tools-used)
+- [Dataset](#-dataset)
+- [Dashboard Preview](#-dashboard-preview)
+- [Key Insights](#-key-insights)
+- [Project Files](#-project-files)
+- [How to Use](#-how-to-use)
+- [Conclusion](#-conclusion)# Screen Time Analytics Dashboard | Power BI
 
 ##  Project Overview
 This project presents a Screen Time Analytics Dashboard created using Microsoft Power BI. It helps analyze screen time data through visualizations and interactive reports, making usage patterns easier to understand.
