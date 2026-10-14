@@ -1,65 +1,92 @@
-#  Screen Time Analytics Dashboard
-
-An interactive data analysis project built using Microsoft Power BI.
-
-## Table of Contents
-- [Project Overview](#-project-overview)
-- [Objectives](#-objectives)
-- [Tools Used](#-tools-used)
-- [Dataset](#-dataset)
-- [Dashboard Preview](#-dashboard-preview)
-- [Key Insights](#-key-insights)
-- [Project Files](#-project-files)
-- [How to Use](#-how-to-use)
-- [Conclusion](#-conclusion)
-
-##  Project Overview
-This project presents a Screen Time Analytics Dashboard created using Microsoft Power BI. It helps analyze screen time data through visualizations and interactive reports, making usage patterns easier to understand.
-
-##  Objectives
-- Analyze screen time data.
-- Identify patterns and differences in usage.
-- Present key metrics using charts and KPIs.
-- Make data easier to interpret through visual analysis.
-
-##  Tools Used
-- Microsoft Power BI
-- Microsoft Excel
-- Power Query
-- DAX
-
-## 📁 Dataset
-The project uses `screentime data.xlsx` as its source dataset.
-
-## 📈 Dashboard Overview
-The Power BI report provides a visual way to explore screen time data. Depending on the visuals included in the report, it can help users:
-- Compare screen time across available categories.
-- Examine important metrics.
-- Explore patterns using charts and filters.
-
-## 🔍 Key Insights
-The dashboard can help investigate:
-- Which categories have higher screen time.
-- How screen time differs across the available data.
-- What patterns appear in the dataset.
-
-
-
-## 📂 Project Files
-- `1756112919123_Screen Time Dashboard.pbix` — Power BI report.
-- `screentime data.xlsx` — Source dataset.
-- `README.md` — Project documentation.
-
-## 🚀 How to Use
-1. Download the `.pbix` report from this repository.
-2. Open it in Power BI Desktop.
-3. Reconnect the Excel dataset if prompted.
-4. Explore the available dashboard visuals.
-
-## 📝 Conclusion
-This project demonstrates the use of Power BI to present screen time data visually and support data-driven analysis.
-
 ## 📸 Dashboard Preview
 
 ![Screen Time Dashboard](dashboard.png)
+atement
+
+Digital devices are an important part of everyday life, but understanding screen time habits can be difficult when usage information is presented only in spreadsheet form.
+
+This project uses Power BI to organize and visualize screen time data, making it easier to explore questions such as:
+
+How much screen time is recorded in the dataset?
+
+Which apps or categories account for the most usage?
+
+What patterns can be identified in digital activity?
+
+How can data visualization help people understand their screen time habits?
+
+🛠️ Tech Stack
+
+Tool
+
+Purpose
+
+Microsoft Power BI
+
+Dashboard development and data visualization
+
+Microsoft Excel
+
+Dataset storage and data preparation
+
+Power Query
+
+Data cleaning and transformation, where applicable
+
+DAX
+
+Calculated measures, where applicable
+
+GitHub
+
+Project storage and documentation
+
+📂 Project Structure
+
+Screen-Time-Dashboard/
+│
+├── Screen Time Dashboard.pbix
+├── screentime data.xlsx
+├── dashboard.png
+└── README.md
+
+📊 Dataset
+
+The project uses the Excel dataset screentime data.xlsx as its data source.
+
+The dataset is used to explore screen time information and related digital usage patterns.
+
+The analysis and visualizations depend on the columns and records available in the dataset.
+
+📈 Dashboard Features
+
+The dashboard is designed to present screen time information in a visual and easy-to-understand format.
+
+Key Components
+
+KPI Summary: Displays important screen time metrics, where configured.
+
+Usage Analysis: Helps explore screen time distribution.
+
+App Analysis: Supports comparisons between apps, if app-level data is available.
+
+Data Visualization: Presents information through charts and graphs.
+
+Interactive Analysis: Allows users to explore the data using available filters and slicers.
+
+🖼️ Dashboard Preview
+
+
+
+💡 Key Analysis Areas
+
+The project supports exploration of the following questions:
+
+Which app or category has the highest recorded usage?
+
+How is screen time distributed across the available records?
+
+Which usage patterns stand out in the visualizations?
+
+What can the data reveal about digital activity?
 
